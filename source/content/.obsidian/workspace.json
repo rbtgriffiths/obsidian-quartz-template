@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "d705b7c5e32b07df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Note"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,11 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "d705b7c5e32b07df",
   "lastOpenFiles": [
+    "index.md",
+    "Test Note.md",
     "IB Digital Society",
     "IB Computer Science/Course Plan.md",
-    "index.md",
     "IB Computer Science/file.md",
     "Test Folder",
     "IB Computer Science",
