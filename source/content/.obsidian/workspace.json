@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB Digital Society/Test DS.md",
+                "file": "IB Digital Society/Article Bank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test DS"
+              "title": "Article Bank"
             }
           }
         ],
@@ -211,7 +211,7 @@
   "active": "d705b7c5e32b07df",
   "lastOpenFiles": [
     "Test Note.md",
-    "IB Digital Society/Test DS.md",
+    "IB Digital Society/Article Bank.md",
     "index.md",
     "IB Digital Society",
     "IB Computer Science/Course Plan.md",
