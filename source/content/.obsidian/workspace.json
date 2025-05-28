@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "IB Computer Science/Course Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Course Plan"
             }
           }
         ],
@@ -194,10 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "IB Computer Science/file.md",
     "index.md",
+    "IB Computer Science/Course Plan.md",
+    "IB Computer Science/file.md",
     "Test Folder",
     "IB Computer Science",
     "category-folder/New note 2.md",
