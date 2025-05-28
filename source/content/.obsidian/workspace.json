@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "About"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB Digital Society/Article Bank.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Bank"
+              "title": "About"
             }
           }
         ],
@@ -208,11 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d705b7c5e32b07df",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Test Note.md",
     "IB Digital Society/Article Bank.md",
-    "index.md",
+    "Test Note.md",
+    "About.md",
     "IB Digital Society",
     "IB Computer Science/Course Plan.md",
     "IB Computer Science/file.md",
