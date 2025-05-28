@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB Computer Science/file.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file"
+              "title": "index"
             }
           }
         ],
@@ -196,9 +196,9 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "IB Computer Science/file.md",
     "index.md",
     "Test Folder",
-    "IB Computer Science/file.md",
     "IB Computer Science",
     "category-folder/New note 2.md",
     "IB Digital",
