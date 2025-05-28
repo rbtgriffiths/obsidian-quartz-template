@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NewFolder/file.md",
+                "file": "IB Computer Science/file.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,12 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "index.md",
     "Test Folder",
-    "NewFolder/file.md",
-    "NewFolder",
+    "IB Computer Science/file.md",
+    "IB Computer Science",
     "category-folder/New note 2.md",
     "IB Digital",
     "category-folder/index.md",
