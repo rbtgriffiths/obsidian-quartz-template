@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Some note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Some note"
             }
           }
         ],
@@ -184,12 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "IB Digital Society",
-    "category-folder/Some note.md",
     "category-folder/index.md",
     "index.md",
+    "IB Digital Society",
+    "category-folder/Some note.md",
     "category-folder"
   ]
 }
