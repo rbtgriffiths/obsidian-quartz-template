@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB Digital Society/Article Bank.md",
+                "file": "IB Computer Science/Resources/Courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Bank"
+              "title": "Courses"
             }
           }
         ],
@@ -194,16 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "About.md",
-    "IB Computer Science/Resources/Courses.md",
-    "IB Computer Science/Revision/Notes/Topic 4 - Computational thinking, problem-solving and programming.md",
-    "IB Computer Science/Admin/Documents/Approved notation for developing pseudocode.md",
-    "IB Computer Science/Lessons/Options",
     "IB Computer Science/Admin/Documents/Syllabus.md",
     "IB Computer Science/Admin/Documents/Pseudocode in Examinations.md",
     "IB Computer Science/Admin/Documents/IB Java Examination Tool Subset (JETS).md",
+    "IB Computer Science/Admin/Documents/Approved notation for developing pseudocode.md",
+    "IB Digital Society/Article Bank.md",
+    "About.md",
+    "IB Computer Science/Resources/Courses.md",
+    "IB Computer Science/Revision/Notes/Topic 4 - Computational thinking, problem-solving and programming.md",
+    "IB Computer Science/Lessons/Options",
     "IB Computer Science/Revision/Notes/Topic 3 - Networks.md",
     "IB Computer Science/Revision/Notes/Topic 2 - Computer organization.md",
     "IB Computer Science/Revision/Notes/Topic 1 - System Fundamentals.md",
@@ -223,7 +224,6 @@
     "Pasted image 20250528154650.png",
     "Pasted image 20250528154610.png",
     "IB Computer Science/Revision/Revision.md",
-    "IB Digital Society/Article Bank.md",
     "Test Note.md",
     "IB Computer Science/file.md",
     "category-folder/New note 2.md",
