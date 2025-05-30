@@ -92,7 +92,7 @@ button#explorer {
       transform 0.35s ease,
       opacity 0.2s ease;
     & li > a {
-      color: var(--dark);
+      color: var(--lightgray); // edited
       opacity: 0.75;
       pointer-events: all;
     }
@@ -144,7 +144,7 @@ svg {
     & span {
       font-size: 0.95rem; // edited
       display: inline-block;
-      color: var(--lightgray);
+      color: var(--gray);
       font-weight: 400; //$semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
