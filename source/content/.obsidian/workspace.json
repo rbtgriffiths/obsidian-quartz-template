@@ -25,14 +25,12 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IB Computer Science/Admin/Course Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "IB-Pseudocode-rules.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Course Plan"
+              "icon": "lucide-file-text",
+              "title": "IB-Pseudocode-rules"
             }
           }
         ],
@@ -195,9 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "About.md",
+    "index.md.md",
+    "IB Computer Science/Admin/Course Plan.md",
     "IB Computer Science/Resources/Courses.md",
     "IB Computer Science/Admin/Documents/Syllabus.md",
     "IB Computer Science/Admin/Documents/Pseudocode in Examinations.md",
@@ -216,7 +215,6 @@
     "IB Computer Science/Lessons",
     "IB Computer Science/Lessons/HL (Extension)",
     "IB Computer Science/Admin/Documents/zebra.md",
-    "IB Computer Science/Admin/Course Plan.md",
     "IB Computer Science/Admin/Details/Untitled.md",
     "IB Computer Science/Admin/Details",
     "Approved_notation_for_developing_pseudocode.pdf",
