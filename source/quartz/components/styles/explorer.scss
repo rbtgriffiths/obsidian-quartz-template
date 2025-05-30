@@ -142,7 +142,7 @@ svg {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem;
+      font-size: 0.5rem; // edited 0.95
       display: inline-block;
       color: var(--secondary);
       font-weight: $semiBoldWeight;
