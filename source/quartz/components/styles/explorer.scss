@@ -120,7 +120,7 @@ svg {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.5rem; // Edited 0.95
-    font-weight: 800; //$semiBoldWeight;
+    font-weight: 400; //$semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
   }
@@ -142,7 +142,7 @@ svg {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem; // edited
+      font-size: 0.5rem; // edited
       display: inline-block;
       color: var(--secondary);
       font-weight: 400; //$semiBoldWeight;
