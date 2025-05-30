@@ -9,8 +9,7 @@
 
   & > .search-button {
     background-color: transparent; //(--lightgray);
-    border: 1px;
-    border-color: black;
+    border: 1px solid var(--gray);
     border-radius: 4px;
     font-family: inherit;
     font-size: inherit;
