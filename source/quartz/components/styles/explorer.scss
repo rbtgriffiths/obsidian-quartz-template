@@ -145,7 +145,7 @@ svg {
       font-size: 0.95rem; // edited
       display: inline-block;
       color: var(--secondary);
-      font-weight: $semiBoldWeight;
+      font-weight: 400; //$semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
       pointer-events: none;
