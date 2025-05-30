@@ -130,7 +130,7 @@ svg {
   }
 
   & div > button {
-    color: var(--gray);
+    color: var(--lightgray); 
     background-color: transparent;
     border: none;
     text-align: left;
@@ -144,7 +144,7 @@ svg {
     & span {
       font-size: 0.95rem; // edited
       display: inline-block;
-      color: var(--secondary);
+      color: var(--lightgray);
       font-weight: 400; //$semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
