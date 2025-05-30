@@ -92,7 +92,7 @@ button#explorer {
       transform 0.35s ease,
       opacity 0.2s ease;
     & li > a {
-      color: var(--lightgray); // edited
+      color: var(--dark); // text color for explorer
       opacity: 0.75;
       pointer-events: all;
     }
